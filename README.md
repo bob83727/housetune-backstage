@@ -1,4 +1,4 @@
-# Housetune 歐風傢具後台管理系統
+# Housetune 後台管理系統
 
 ## 專案概述
 
